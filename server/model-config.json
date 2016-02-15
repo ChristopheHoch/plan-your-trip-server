@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Trip": {
+    "dataSource": "db",
+    "public": true
   }
 }
