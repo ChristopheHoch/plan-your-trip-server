@@ -33,7 +33,7 @@
     "public": false
   },
   "Trip": {
-    "dataSource": "db",
+    "dataSource": "planYourTrip_dev",
     "public": true
   }
 }
